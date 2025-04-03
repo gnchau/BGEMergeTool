@@ -134,6 +134,8 @@ The toolkit supports various output formats:
 - **PLINK**: Binary format for genetic analysis
 - **Hail MatrixTable**: Native format for continued analysis with Hail
 - **TSV/CSV**: Concordance and sample information in tabular format
+
+and supports the following format for logging and metrics:
 - **JSON**: Detailed concordance metrics and results
 
 ## Concordance Metrics
